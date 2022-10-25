@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const port = 5000;
 
-const courses_category = "./data/course_categories.json";
+const courses_category = require("./data/course_categories.json");
 
 app.get("/", (req, res) => {
   res.send("Courses API Running");
