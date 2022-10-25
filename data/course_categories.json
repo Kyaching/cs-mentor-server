@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Learn the fundamentals of computer science",
+        "description": "The fundamental design cycle of computer science and computer programming: writing code, executing it, interpreting the results, and revising the code syntax based on the outcomes.",
+        "image": "https://robohash.org/aliassitvoluptatibus.png?size=50x50&set=set1"
+    },
+    {
+        "id": 2,
+        "title": "Introduction to Web Development",
+        "description": "On this course from the Raspberry Pi Foundation, you’ll first build a website using HTML, style it with CSS, and then make it interactive using JavaScript. Along the way you’ll learn about the box model, which describes how websites are laid out by browsers, and about the Document Object Model, which your JavaScript code will interact with to dynamically change your web pages.In the final week, you’ll design and create a quiz web page and demonstrate your new skills by making your own website.",
+        "image": "https://ugc.futurelearn.com/uploads/images/00/a9/header_00a9559c-83c3-487d-bf96-c0732521ee2c.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Computer Programming for Everyone",
+        "description": "What are computers good at and how can you get the best out of them?On this course, you’ll find out how and why people program computers.Using an introductory block-language for coding, you’ll discover the kinds of problems that computers can help you solve.You’ll also explore different types of coding languages and discover a variety of useful applications of code.At the end of the course, you’ll implement key principles you’ve learned by writing your first computer programs.Featured in the UK government’s The Skills Toolkit collection.",
+        "image": "https://ugc.futurelearn.com/uploads/images/02/3d/header_023dddeb-f981-45f1-90ae-ba0e6be97599.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Introduction to Databases and SQL",
+        "description": "On this course from the Raspberry Pi Foundation you’ll learn what databases are and why we use them, exploring how to use SQL to search and manipulate data.Along the way, you’ll learn about primary keys and table relationships, as well as howto create joins to search multiple tables. In the final week, you’ll finish by grouping and looking at exporting data from the database. Learning about databases and SQL is a key component of Computer Science, so it’s important for educators, students, and parents alike to feel confident about the subject.",
+        "image": "https://ugc.futurelearn.com/uploads/images/99/11/header_99112f60-2f01-4afe-bb35-6ab1ae323392.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Object-oriented Programming in Python: Create Your Own Adventure Game",
+        "description": "Object-oriented programming is a programming paradigm based on objects and data rather than actions and logic. This online course will introduce you to the principles of object-oriented programming in Python, showing you how to create objects, functions, methods, and classes. You’ll use what you learn to create your own text-based adventure game. You will have the chance to share your code with other learners, and see theirs. If you’re an educator, you’ll also be able to develop ideas for using object-oriented programming in your classroom.        ",
+        "image": "https://ugc.futurelearn.com/uploads/images/4c/b1/header_4cb1c93f-cf66-4158-bb2f-87aefdad8dea.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Programming 102: Think Like a Computer Scientist",
+        "description": "On this course, you’ll explore Python programming at an intermediate level. You’ll discover how to break down problems into smaller parts, and then design and apply algorithms to data. You’ll also explore list structures and their various uses. Ultimately, what you learn will build upon your foundational Python skills - preparing you to progress onto more advanced programming.",
+        "image": "https://ugc.futurelearn.com/uploads/images/47/c4/header_47c47eba-cf82-48d2-ac8b-d8f35e7537ca.jpg"
+    }
+]
