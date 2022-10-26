@@ -3,7 +3,7 @@ const cors = require("cors");
 const app = express();
 const port = 5000;
 
-const courses_category = require("./data/course_categories.json");
+const courses = require("./data/courses.json");
 
 app.use(cors());
 app.get("/", (req, res) => {
@@ -11,12 +11,12 @@ app.get("/", (req, res) => {
 });
 
 app.get("/courses", (req, res) => {
-  res.send(courses_category);
+  res.send(courses);
 });
 
 app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
-  const course = courses_category.find((course) => course.id == id);
+  const course = courses.find((course) => course.id == id);
   res.send(course);
 });
 
